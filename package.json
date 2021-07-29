@@ -1,0 +1,29 @@
+{
+  "name": "aiguideapp_api",
+  "version": "1.0.0",
+  "description": "AI Guide App rest api",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.3",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.5.0",
+    "rotating-file-stream": "^2.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

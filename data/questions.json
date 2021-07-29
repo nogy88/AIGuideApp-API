@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "7076f6f70b3f53502c7bb2c1",
+        "quiz": "607e5cddb825e23270728741",
+        "type": "choice",
+        "question": "Sam Malone was a former relief pitcher for which baseball team?",
+        "correct_answer": "Boston Red Sox",
+        "incorrect_answers": [
+          "New York Mets",
+          "Baltimore Orioles",
+          "Milwaukee Brewers"
+        ]
+      },
+      {
+        "_id": "7076f6f70b3f53502c7bb2c2",
+        "quiz": "607e5cddb825e23270728741",
+        "type": "choice",
+        "question": "In Breaking Bad, the initials W.W. refer to which of the following?",
+        "correct_answer": "Walter White",
+        "incorrect_answers": [
+            "William Wolf",
+            "Willy Wonka",
+            "Wally Walrus"
+        ]
+      },
+      {
+        "_id": "7076f6f70b3f53502c7bb2c3",
+        "quiz": "607e5cddb825e23270728741",
+        "type": "choice",
+        "question": "What is the name of the main character in &quot;The Flash&quot; TV series?",
+        "correct_answer": "Barry Allen",
+        "incorrect_answers": [
+            "Oliver Queen",
+            "Bruce Wayne"
+        ]
+      },
+      {
+        "_id": "7076f6f70b3f53502c7bb2c4",
+        "quiz": "607e5cddb825e23270728741",
+        "type": "choice",
+        "question": "When did the TV show Rick and Morty first air on Adult Swim?",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+            "2014",
+            "2016",
+            "2015"
+        ]
+      },
+      {
+        "_id": "7076f6f70b3f53502c7bb2c5",
+        "quiz": "607e5cddb825e23270728741",
+        "type": "text",
+        "question": "Afaf ad a Rick and Morty first air on Adult Swim?",
+        "correct_answer": "finn"
+      }
+]

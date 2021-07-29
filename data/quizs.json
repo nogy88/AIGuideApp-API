@@ -1,0 +1,28 @@
+[{
+    "_id": "607e49a3d64eeb1724cbc933",
+    "name": "Test QUIZ №1",
+    "description": "What's Artificial Intelligence бүлгийн бататгах тест",
+    "chapter": "6076f6f70b3f53502c7bb2c6",
+    "createdUser": "607bf046cc10af0d8c4614e1"
+},
+{
+    "_id": "607e5cddb825e23270728741",
+    "name": "Test QUIZ", 
+    "description": "Test бүлгийн бататгах тест",
+    "chapter": "6081cd3cc75fd22624345f13",
+    "createdUser": "607e57435c1d7509286bd099"
+},
+{
+    "_id": "607e5d05b82c121018c884ce",
+    "name": "Test QUIZ testing....", 
+    "description": "Machine Learning бүлгийн бататгах тест. Энэхүү бүлгийн эхний 10 хичээлийн агуулгаар энэхүү тестийг бэлтгэлээ.",
+    "chapter": "6076f93c3159173440e2f3f6",
+    "createdUser": "607e57435c1d7509286bd099"
+},
+{
+    "_id": "607e5d05b82c121018c814ce",
+    "name": "Бататгах Quiz 2", 
+    "description": "Test Chapter бүлгийн бататгах тест",
+    "chapter": "6081cd48c75fd22624345f14",
+    "createdUser": "607e57435c1d7509286bd099"
+}]

@@ -1,0 +1,60 @@
+[
+    {
+       "_id": "6076f6f70b3f53502c7bb2h1",
+       "score": "9",
+       "totalQuestion": "10",
+       "quiz": "6076f6f70b3f53502c7bb2c1",
+       "user": "607bf046cc10af0d8c4614e1",
+       "questions": [
+        {
+            "_id": "7076f6f70b3f53502c7bb2c1",
+            "quiz": "6076f6f70b3f53502c7bb2c1",
+            "type": "multiple",
+            "question": "Sam Malone was a former relief pitcher for which baseball team?",
+            "correct_answer": "Boston Red Sox",
+            "incorrect_answers": [
+              "New York Mets",
+              "Baltimore Orioles",
+              "Milwaukee Brewers"
+            ],
+            "user_answer": "Boston Red Sox",
+            "isTrue": "true"
+          },
+          {
+            "_id": "7076f6f70b3f53502c7bb2c2",
+            "quiz": "6076f6f70b3f53502c7bb2c1",
+            "type": "multiple",
+            "question": "In Breaking Bad, the initials W.W. refer to which of the following?",
+            "correct_answer": "Walter White",
+            "incorrect_answers": [
+                "William Wolf",
+                "Willy Wonka",
+                "Wally Walrus"
+            ]
+          },
+          {
+            "_id": "7076f6f70b3f53502c7bb2c3",
+            "quiz": "6076f6f70b3f53502c7bb2c1",
+            "type": "multiple",
+            "question": "What is the name of the main character in &quot;The Flash&quot; TV series?",
+            "correct_answer": "Barry Allen",
+            "incorrect_answers": [
+                "Oliver Queen",
+                "Bruce Wayne"
+            ]
+          },
+          {
+            "_id": "7076f6f70b3f53502c7bb2c4",
+            "quiz": "6076f6f70b3f53502c7bb2c1",
+            "type": "multiple",
+            "question": "When did the TV show Rick and Morty first air on Adult Swim?",
+            "correct_answer": "2013",
+            "incorrect_answers": [
+                "2014",
+                "2016",
+                "2015"
+            ]
+          }
+        ]
+   }
+]

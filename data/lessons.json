@@ -1,0 +1,131 @@
+[
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "1376f93c3159173440e2f3f6",
+        "name": "What's Artificial Intelligence?",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is",
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-07T15:30:44.883Z",
+        "__v": 0,
+        "id": "1376f93c3159173440e2f3f6"
+    },
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "1176f93c3159173440e2f3f6",
+        "name": "Introduction of Artificial Intelligence",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is",
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-07T15:30:44.883Z",
+        "__v": 0,
+        "id": "1176f93c3159173440e2f3f6"
+    },
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "1276f93c3159173440e2f3f6",
+        "name": "Acting humanly: The Turing test approach",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is",
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-07T15:30:44.882Z",
+        "__v": 0,
+        "id": "1276f93c3159173440e2f3f6"
+    },
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "6097a34f92429838385f5885",
+        "name": "The Foundations of Artificial Intelligence",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-09T08:54:39.489Z",
+        "__v": 0,
+        "id": "6097a34f92429838385f5885"
+    },
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "6097a35d92429838385f5886",
+        "name": "The History of Artificial Intelligence",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-09T08:54:53.257Z",
+        "__v": 0,
+        "id": "6097a35d92429838385f5886"
+    },
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "6097a37592429838385f5887",
+        "name": "Control theory and cybernetics",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-09T08:55:17.740Z",
+        "__v": 0,
+        "id": "6097a37592429838385f5887"
+    },
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "6097a38192429838385f5888",
+        "name": "Probabilistic reasoning and machine learning",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-09T08:55:29.950Z",
+        "__v": 0,
+        "id": "6097a38192429838385f5888"
+    },
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "6097a3ac92429838385f5889",
+        "name": "Risks and Benefits of AI",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-09T08:56:12.181Z",
+        "__v": 0,
+        "id": "6097a3ac92429838385f5889"
+    },
+    {
+        "file": "http://www.africau.edu/images/default/sample.pdf",
+        "_id": "6097a3d492429838385f588a",
+        "name": "The inception of artificial intelligence",
+        "chapter": {
+            "_id": "6076f93c3159173440e2f3f6",
+            "name": "Machine Learning ...",
+            "id": "6076f93c3159173440e2f3f6"
+        },
+        "createdUser": "607bf046cc10af0d8c4614e1",
+        "createdAt": "2021-05-09T08:56:52.714Z",
+        "__v": 0,
+        "id": "6097a3d492429838385f588a"
+    }
+]

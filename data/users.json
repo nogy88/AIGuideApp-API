@@ -1,0 +1,29 @@
+[{
+    "role": "admin",
+    "_id": "607bf046cc10af0d8c4614e1",
+    "name": "admin",
+    "email": "admin@gmail.com",
+    "password": "1234"
+},
+{
+    "role": "teacher",
+    "_id": "607c57ae320c6d3bf480d722",
+    "name": "momo",
+    "email": "momo@gmail.com",
+    "password": "1234"
+},
+{
+    "role": "student",
+    "_id": "607c68a5ac81b74efcbe958b",
+    "name": "norovoo",
+    "email": "norovoo@gmail.com",
+    "password": "1234"
+},
+{
+    "role": "teacher",
+    "_id": "607e57435c1d7509286bd099",
+    "name": "dad",
+    "email": "dad@gmail.com",
+    "password": "1234"
+}
+]

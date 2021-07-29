@@ -1,0 +1,26 @@
+[
+    {
+        "photo": "photo_6076f93c3159173440e2f3f6.jpg",
+        "_id": "6076f93c3159173440e2f3f6",
+        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is ",
+        "name": "Machine Learning ..."
+    },
+    {
+        "photo": "photo_6076f6f70b3f53502c7bb2c6.png",
+        "_id": "6076f6f70b3f53502c7bb2c6",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demon",
+        "name": "What's AI ..."
+    },
+    {
+        "photo": "photo_6081cd3cc75fd22624345f13.jpg",
+        "_id": "6081cd3cc75fd22624345f13",
+        "description": "Common names for Lorem ipsum text include: - Blind Text - Dummy Text - Place Holder Text - Mock Text - Filler ",
+        "name": "Шинэ бүлэг"
+    },
+    {
+        "photo": "photo_6081cd48c75fd22624345f14.jpg",
+        "_id": "6081cd48c75fd22624345f14",
+        "description": "Generates passages of lorem ipsum text suitable for use as placeholder copy",
+        "name": "Test Chapter"
+    }
+]
